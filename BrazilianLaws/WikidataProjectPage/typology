@@ -1,0 +1,33 @@
+{{Wikidata:WikiProject Brazilian Laws/Tabs|Tipology}}
+
+== Introduction ==
+This page offers an overview of the typology of Brazilian laws within Wikidata.
+
+
+=== To Do List ===
+Below you can find a list of tasks that are yet to be completed: 
+
+* proposing a thesauri for the Brazilian laws;
+* completing it in both English and Portuguese;
+
+
+== Types of Brazilian laws within Wikidata ==
+
+=== Types of laws, by number of instances === 
+{{SPARQL|query=SELECT ?legal_act_typeLabel (count(?legal_act_typeLabel) as ?count) WHERE {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  ?legal_act wdt:P31/wdt:P279* wd:Q740464.
+  {?legal_act wdt:P1001 wd:Q155.}
+  UNION
+  {?legal_act wdt:P17 wd:Q155.}
+  UNION
+  {?legal_act wdt:P495 wd:Q155.}
+  ?legal_act wdt:P31 ?legal_act_type.
+}
+GROUP BY ?legal_act_typeLabel
+ORDER BY DESC(?count)}}
+
+
+== Brazilian legislation == 
+* [https://legislacao.presidencia.gov.br/ Palácio do Planalto]
+* [https://www.lexml.gov.br/ LexML API]

@@ -1,0 +1,52 @@
+{{Wikidata:WikiProject Heritage institutions/Tabs|Home}} 
+== Aim and Scope == 
+
+The goal of this project is to model and import the entire framework of Brazilian laws to Wikidata. 
+
+The Brazilian legislation isn't made available in an open and transparent manner. It can be accessed through the website of the Palácio do Planalto (official workplace of the President of Brazil) and a system called LEXML. However, both of them have search APIs that are quite lacking in functionalities, and aren't easily accesible to someone who isn't familiar with their platforms. 
+
+More specifically, the project coordinates the following activities: 
+
+* the gathering and modelling of metadata pertaining all Brazilian laws;
+* the creation of a lexicon of terms that categorize said laws;
+* the inserion of data regarding the Brazilian legislation into Wikidata;
+* further improving and completing already existing items;
+* the development of a Toolforge tool that will simplify the process of importing future Brazilian laws into Wikidata.
+
+The entire process and methodology will be documented in this page, as to aid those interested in replicating it in the future.
+
+== Breakdown of Tasks ==
+Most of the activities will take place on the Wikidata platforms. They are:
+
+* downloading all laws and "law-decrees" (decrees with status of law, from previous constitutions)<ref>{{cite web|url=http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1|publisher=Presidência da República do Brasil|title=Legislação|accessdate=26 September 2020}}</ref> available in the LEXML API (approximaly 28 thousand);
+* creating a schema crosswalk between Wikidata, LEXML and the Palácio do Planalto website;
+* modelling the metadata schema for each type of legislation act (decree, law etc) for each period of time of the Brazilian legislation on federal level;
+* creating an ever-growing, dynamic lexicon for the distinct terms of categorization of the Brazilian laws;
+* loading all the available legislation on Palácio do Planalto website in Wikidata and curate the ones that already exists;
+* developing an interface on Toolforge to translate the metadata from the Palácio do Planalto and LexML into QuickStatements commands to import into Wikidata;
+
+
+== Ways to Contribute == 
+
+We are currently on the first stages of the project: gathering all laws and creating the schema crosswalk. Once those base activities are completed, we will update this section with ways in which you can contribute. 
+
+
+== Communication Channels == 
+The coordination of the project mostly takes place through [<tvar|4>https://wmnobrasil.slack.com/</> Wiki Movement Brazil's Slack channel] ''(you are welcome to sign up!). 
+
+;Core team:
+* [[User:Ederporto|Éder Porto]] ([[User talk:Ederporto|talk]])
+* [[User:VStocco (WMB)|Veronica Stocco]] ([[User talk:VStocco (WMB)|talk]])
+
+== Participants == 
+
+* Éder Porto ([[User:Ederporto]])
+* Célio Costa ([[User:Sturm]]) 
+* João Alexandre Peschanski ([[User:Joalpe]])
+* Veronica Stocco ([[User:VStocco (WMB)]])
+
+
+== Navigation == 
+
+{{Wikidata:WikiProject_Cultural_heritage/Navigation|0=yes|1=yes|2=no|3=no}}
+

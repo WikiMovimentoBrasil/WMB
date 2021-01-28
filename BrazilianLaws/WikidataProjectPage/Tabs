@@ -1,0 +1,29 @@
+{| style="background:transparent" border="0" cellspacing="0" cellpadding="0" height="70" width="100%" 
+
+<!-- TAB WikiProject Brazilian Laws --> 
+| width="3%" style="{{#ifeq:{{{1}}}|Home|background-color:lightgrey;|background-color:lightgrey;}} border-top:solid 2px #cfcfce; border-left:solid 2px #cfcfce; border-right:solid 2px #cfcfce; text-align:center; -webkit-border-top-left-radius: 7px; -webkit-border-top-right-radius: 7px; -moz-border-radius-topleft: 7px; -moz-border-radius-topright: 7px; border-top-left-radius: 7px; border-top-right-radius: 7px; border-bottom:solid 3px #cfcfce; padding:0 2px;" |
+<p style="margin-bottom:0.2em;">[[File:Pfeil oben.svg|12px|link=Wikidata:WikiProject Brazilian Laws]]</p>
+| style="border-bottom:solid 3px #cfcfce" | &nbsp; 
+
+<!-- TAB HOME --> 
+| width="14%" style="{{#ifeq:{{{1}}}|Home|background-color:#9999ff;|background-color:#ccccff;}} border-top:solid 2px #cfcfce; border-left:solid 2px #cfcfce; border-right:solid 2px #cfcfce; text-align:center; -webkit-border-top-left-radius: 7px; -webkit-border-top-right-radius: 7px; -moz-border-radius-topleft: 7px; -moz-border-radius-topright: 7px; border-top-left-radius: 7px; border-top-right-radius: 7px; border-bottom:solid 3px #cfcfce; padding:0 2px;" |
+<p style="margin-bottom:0.2em;">'''[[Wikidata:WikiProject Brazilian Laws|Home]]'''</p>
+| style="border-bottom:solid 3px #cfcfce" | &nbsp; 
+
+<!-- TAB Schema crosswalk --> 
+| width="14%" style="{{#ifeq:{{{1}}}|Data Structure|background-color:#9999ff;|background-color:#ccccff;}} border-top:solid 2px #cfcfce; border-left:solid 2px #cfcfce; border-right:solid 2px #cfcfce; text-align:center; -webkit-border-top-left-radius: 7px; -webkit-border-top-right-radius: 7px; -moz-border-radius-topleft: 7px; -moz-border-radius-topright: 7px; border-top-left-radius: 7px; border-top-right-radius: 7px; border-bottom:solid 3px #cfcfce; padding:0 2px;" |
+<p style="margin-bottom:0.2em;">'''[[Wikidata:WikiProject Brazilian Laws/Schema crosswalk|Schema crosswalk]]'''</p>
+| style="border-bottom:solid 3px #cfcfce" | &nbsp; 
+
+<!-- TAB Typology --> 
+| width="14%" style="{{#ifeq:{{{1}}}|Typology|background-color:#9999ff;|background-color:#ccccff;}} border-top:solid 2px #cfcfce; border-left:solid 2px #cfcfce; border-right:solid 2px #cfcfce; text-align:center; -webkit-border-top-left-radius: 7px; -webkit-border-top-right-radius: 7px; -moz-border-radius-topleft: 7px; -moz-border-radius-topright: 7px; border-top-left-radius: 7px; border-top-right-radius: 7px; border-bottom:solid 3px #cfcfce; padding:0 2px;" |
+<p style="margin-bottom:0.2em;">'''[[Wikidata:WikiProject Brazilian Laws/Typology|Typology]]'''</p>
+| style="border-bottom:solid 3px #cfcfce" | &nbsp; 
+
+<!-- TAB Lexicon --> 
+| width="14%" style="{{#ifeq:{{{1}}}|Data Sources|background-color:#9999ff;|background-color:#ccccff;}} border-top:solid 2px #cfcfce; border-left:solid 2px #cfcfce; border-right:solid 2px #cfcfce; text-align:center; -webkit-border-top-left-radius: 7px; -webkit-border-top-right-radius: 7px; -moz-border-radius-topleft: 7px; -moz-border-radius-topright: 7px; border-top-left-radius: 7px; border-top-right-radius: 7px; border-bottom:solid 3px #cfcfce; padding:0 2px;" |
+<p style="margin-bottom:0.2em;">'''[[Wikidata:WikiProject Brazilian Laws/Lexicon|Lexicon]]'''</p>
+| style="border-bottom:solid 3px #cfcfce" | &nbsp; 
+
+
+|}
